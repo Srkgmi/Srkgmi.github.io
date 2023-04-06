@@ -230,7 +230,7 @@
 
 /* 页面样式调节 */
 :root {
-  --trans-light: rgba(255, 255, 255, 0.78);
+  --trans-light: rgba(255, 255, 255, 0.68);
   --trans-dark: rgba(25, 25, 25, 0.88);
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: none;
