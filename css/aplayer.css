@@ -321,9 +321,3 @@
 #nav-music .aplayer .aplayer-pic .aplayer-button {
   pointer-events: all;
 }
-/* 适配手机 */
-@media screen and (max-width: 1300px) {
-    #nav-music {
-      display: none !important;
-    }
-  }
